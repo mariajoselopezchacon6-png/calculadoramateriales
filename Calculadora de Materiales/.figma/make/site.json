@@ -1,0 +1,10 @@
+{
+  "description": "Calculates construction material needs for walls, beams, columns, floors, roofs, and paint with user authentication for efficient project planning.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
